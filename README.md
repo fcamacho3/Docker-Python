@@ -10,6 +10,7 @@ This assignment aims to leverage __Docker__ and __Python__ to develop a program 
 ## Viewing Logs
 > VS Code
 ![VS Code logging](EmbeddedFiles/VSCodeLog.png)
+> 
 
 > Docker
 ![Docker Log](EmbeddedFiles/DockerLogs.png)
